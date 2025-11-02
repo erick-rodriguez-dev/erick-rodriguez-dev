@@ -1,23 +1,43 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjbWs4eXRycGVjcnk5Yzl3cWtycnRiZWphNm1zN3p3MThneWczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R36Gr7iGSlkU6Dv9S6/giphy.gif" width=250 height=250/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjbWs4eXRycGVjcnk5Yzl3cWtycnRiZWphNm1zN3p3MThneWczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R36Gr7iGSlkU6Dv9S6/giphy.gif" width="250" height="250"/>
+  
+  #  Erick Rodriguez
+  
+  ### Software Engineer | Full Stack Developer | Tech Enthusiast
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-rodriguez-dev)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erick-rodriguez-dev)
+  
 </div>
 
-# Hello, I´m Erick Rodriguez
+---
 
-I am currently doing an internship at an aerocivil in Colombia, I´m studying on my own new technologies that may be useful in 2024
+## 🚀 Sobre Mí
 
-I want to finish my studies in software engineering in Canada, in addition to getting enough experience working in a real work environment
+Soy un desarrollador de software apasionado por la tecnología, la innovación y la seguridad digital. Me encuentro en constante aprendizaje, explorando nuevas herramientas y adoptando las mejores prácticas dentro del dinámico ecosistema del desarrollo de software.
 
-### Contact Me
+Mi objetivo profesional es convertirme en Ingeniero en Ciberseguridad, combinando mi interés por la seguridad con mi experiencia en programación web y desarrollo de aplicaciones. Busco mantener un perfil versátil y completo, siempre abierto a nuevos desafíos y oportunidades para aprender.
+
+---
+
+## 💻 Stack Tecnológico
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erick-rodriguez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pena-dev" height="30" width="40" /></a>
-
-### Things I code with
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,php,py,java,cpp,docker,mysql,postgresql,mongodb,html,css,react,nextjs,astro,azure,bash,bootstrap,tailwind&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php,golang" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,bootstrap,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,azure,bash,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,golang" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
